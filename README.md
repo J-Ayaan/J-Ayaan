@@ -86,6 +86,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=J-Ayaan" alt="Git stats" height="160px" /></a>
   <br/>
   <h2>☎️ Contact Me</h2>
-  <a href="https://www.instagram.com/im_y._.jae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developer_ayaan"/></a>
-  <a href="mailto:zzangjyj0818@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mymayaan@gmail.com"/></a>
+  <a href="www.instagram.com/developer_ayaan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/developer_ayaan"/></a>
+  <a href="mailto:mymayaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mymayaan@gmail.com"/></a>
 </div>
