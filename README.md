@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" height="30"/>
 </p>
 
 ### Collaboration Tools
@@ -66,5 +65,3 @@
 ## Certificate
 - SQL Developer (SQLD)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?J-Ayaan=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?J-Ayaan=anuraghazra&hide_progress=true)
