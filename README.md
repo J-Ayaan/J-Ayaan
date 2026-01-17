@@ -19,8 +19,8 @@
 |Goorm.Univ 3rd 기획|Kakao Goorm|2024.09 ~ 2025.01|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/Goorm_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)|
 |GDSC 24-25 ML/DATA|GDSC Sangmyung|2024.09 ~ 진행중||
 |BOAZ 24기 데이터 엔지니어링|BOAZ|2025.01 ~ 진행중||
-|LikeLion.Univ 13th 기획 운영진|멋쟁이사자처럼|2025.01 ~ 진행중||
-|프로덕트 데이터 분석가 과정 3기 (KDT)|모두의 연구소|2025.07 ~ 진행중||
+|LikeLion.Univ 13th 기획 운영진|멋쟁이사자처럼|2025.01 ~ 2025.12||
+|프로덕트 데이터 분석가 과정 3기 (KDT)|모두의 연구소|2025.07 ~ 2026.01|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC%20PDA3%E1%84%80%E1%85%B5_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.pdf)|
 |Tableau Bootcamp 28기|Salesforce|2025.07 ~ 2025.07|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/tableau_salesforce.pdf)|
 
 
