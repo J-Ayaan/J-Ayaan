@@ -15,8 +15,8 @@
 |24년도 감염병 빅데이터 활용 데이터 분석 1기|KIST|2024.06 ~ 2024.07|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/%5B%E1%84%85%E1%85%A6%E1%86%BA%E1%84%8B%E1%85%B2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A6%E1%84%83%E1%85%B2%5D%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC_2024%20%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%B7%E1%84%87%E1%85%A7%E1%86%BC%20%E1%84%87%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%201%E1%84%80%E1%85%B5_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.pdf)|
 |<Data Science 2024>|네이버 부스트코스|2024.07 ~ 2024.08|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)|
 |Goorm.Univ 3rd 기획|Kakao Goorm|2024.09 ~ 2025.01|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/Goorm_%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)|
-|GDSC 24-25 ML/DATA|GDSC Sangmyung|2024.09 ~ 진행중||
-|BOAZ 24기 데이터 엔지니어링|BOAZ|2025.01 ~ 진행중||
+|GDSC 24-25 ML/DATA|GDSC Sangmyung|2024.09 ~ 2025.08||
+|BOAZ 24기 데이터 엔지니어링|BOAZ|2025.01 ~ 2026.01||
 |LikeLion.Univ 13th 기획 운영진|멋쟁이사자처럼|2025.01 ~ 2025.12||
 |프로덕트 데이터 분석가 과정 3기 (KDT)|모두의 연구소|2025.07 ~ 2026.01|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC%20PDA3%E1%84%80%E1%85%B5_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC.pdf)|
 |Tableau Bootcamp 28기|Salesforce|2025.07 ~ 2025.07|[수료증](https://github.com/J-Ayaan/Certificate/blob/main/tableau_salesforce.pdf)|
