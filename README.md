@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=AYAAN%20JUNG&fontSize=100)
-
-## Introduction - 고객 응대 경험을 데이터로 풀어내는 문제 해결형 데이터 분석가를 꿈꾸는 정준경 입니다.
 - **Name**:&nbsp;&nbsp;정준경
 - **University**:&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업)
 - **Email**:&nbsp;&nbsp;mymayaan@gmail.com
